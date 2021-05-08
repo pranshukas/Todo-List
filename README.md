@@ -1,6 +1,6 @@
 # Todo-List
 
-A Simple Todo List Created with Node.js/Express and EJS. User can add the list of task everyday and cross-them when completed. 
+A Simple Todo List Created with Node.js/Express and EJS. User can add the list of tasks to complete everyday and cross-them whenever completed. 
 
 
 ![Todo-List](public/images/Capture.png)
