@@ -3,6 +3,8 @@
 A Simple Todo List Created with Node.js/Express and EJS. User can add the list of tasks to complete everyday and cross-them whenever completed. 
 
 
+## Deployment : 
+
 ![Todo-List](public/images/Capture.png)
 
 
@@ -15,8 +17,9 @@ A Simple Todo List Created with Node.js/Express and EJS. User can add the list o
 
 ## Installation
 
-1. Install Dependencies `npm install express body-parser`
-2. Now run on Local Host use `node app.js`
+1. Run `npm init`
+2. Install Dependencies `npm install express body-parser`
+3. Now run on Local Host use `node app.js`
 
 ## Contribution
 
